@@ -1,0 +1,79 @@
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100dvw;
+    height: 100dvh;
+    gap: 20px;
+}
+.boxer1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+    margin-top: 20px;
+}
+.title{
+    font-size: 24px;
+    color: #fff;
+    font-family: var(--font-ubuntu);
+}
+.boxerLogin{
+    background-color:var(--boxer-blu) ;
+    width: 308px;
+    height: 220px;
+    border-radius: 10px;
+    border: 1px solid var(--border-boxer);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.emailBoxer, .passwordBoxer{
+    width: 274px;
+    height: 33.3%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 7px;
+}
+.emailBoxer_Text, .passwordBoxer_boxer_Text{
+    color: #fff;
+    font-family: var(--font-ubuntu);
+}
+.inputEmail, .inputPassword{
+    width: 262px;
+    height: 32px;
+    background-color: var(--input);
+    border: 1px solid var(--border-input);
+    border-radius: 8px;
+    color: #fff;
+    padding-left: 10px;
+}
+.passwordBoxer_boxer{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+.passwordBoxer_boxer_forgotPassword{
+    color: var(--forgotPassword);
+    font-size: 12px;
+    font-family: var(--font-ubuntu);
+    cursor: pointer;
+}
+.buttonSubmit{
+    width: 274px;
+    height: 32px;
+    background-color: var(--color-button);
+    border: 1px solid var(--color-button);
+    border-radius: 10px;
+    color: #fff;
+    font-family: var(--font-ubuntu);
+}
+.buttonSubmit:hover{
+    cursor: pointer;
+    background-color: var(--color-button-hover);
+}
