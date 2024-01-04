@@ -4,12 +4,11 @@
 
 <img src="public/Captura de tela .png"/>
 
-## Tecnologias utilizadas :sunglasses:
-
-<div style="display: inline_block">
-  <img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<div style="display: inline_block ;" align="center" >
+ <h2> Tecnologias utilizadas :sunglasses:</h2>
+  <img width="50" height="50" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   
-  <img width="50" height="50" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AjvtgRN8bmNL9LuEWcuzst00FdtzIg5zOqlne6BNXiFE78056f7PVx95kKdko-oZowc&usqp=CAU" />
+  <img width="50" height="50" align="center"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AjvtgRN8bmNL9LuEWcuzst00FdtzIg5zOqlne6BNXiFE78056f7PVx95kKdko-oZowc&usqp=CAU" />
   
   <img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   
